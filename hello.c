@@ -2,14 +2,10 @@
 
 int main()
 {
-
-    printf("Hello world!");
-    printf("Ola, mundo");
-<<<<<<< HEAD
-	printf("Plínio melhor professor lindo"); //Pedro//
-=======
-    printf("Bonjour le monde");
->>>>>>> Develop
-
+    printf("Hello world!\n");
+    printf("Ola, mundo\n");
+    printf("Bonjour le monde\n");
+  	printf("Plínio melhor professor lindo"); //Pedro//
+    printf("lorem ipsum dolor sit amet\n");
     return 0;
 }
