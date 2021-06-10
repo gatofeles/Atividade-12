@@ -7,5 +7,6 @@ int main()
     printf("Bonjour le monde\n");
   	printf("Plínio melhor professor lindo"); //Pedro//
     printf("lorem ipsum dolor sit amet\n");
+    printf("Salve professor tamo junto");
     return 0;
 }
